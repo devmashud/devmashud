@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheMashud
+- 👋 Assalamo Alikom Hi I’m @TheMashud
 - 👀 I’m interested in Compitive Programing and Web development 
 - 🌱 I’m currently learning C/C++ Data Structure and Algorithm 
 - 💞️ I’m looking to collaborate on ...
