@@ -1,5 +1,5 @@
-- 👋 Assalamo Alikom Hi I’m @TheMashud
-- 👀 I’m interested in Compitive Programing and Web development 
+- 👋 Assalamo Alikom Hi I’m Mashudul Hoque
+- 👀 I’m interested in Compitive Programing and Web App development 
 - 🌱 I’m currently learning C/C++ Data Structure and Algorithm 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
