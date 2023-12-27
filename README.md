@@ -1,4 +1,4 @@
-- 👋 Assalamo Alikom Hi I’m Mashudul Hoque
+- 👋 Assalamo Alikom Hi I’m Mashudul Hoque @TheMashud #TheMashud
 - 👀 I’m interested in Compitive Programing and Web App development 
 - 🌱 I’m currently learning C/C++ Data Structure and Algorithm 
 - 💞️ I’m looking to collaborate on ...
