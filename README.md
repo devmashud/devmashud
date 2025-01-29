@@ -1,4 +1,4 @@
-- 👋 Assalamo Alikom Hi I’m shade0x1a 
+- 👋 Assalamo Alikom Hi Mashudul Hoque
 - 👀 I’m interested in Compitive Programing and Web App development 
 - 🌱 I’m currently learning C/C++ Data Structure and Algorithm 
 - 💞️ I’m looking to collaborate on ...
