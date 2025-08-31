@@ -1,14 +1,15 @@
 # 👋 Assalamu Alaikum! I'm Mashudul Hoque
 
-Hi there! Welcome to my GitHub profile. 😄  
+Welcome to my GitHub profile! 😄  
+I'm a passionate **Web Developer** and **Competitive Programmer** constantly learning and building real-world applications.  
 
 ---
 
 ## 👀 About Me
-- Passionate about **Web App Development** & **Competitive Programming** 💻  
-- Previously learned **Data Structures & Algorithms (DSA)** 📚  
-- Currently mastering **React.js**, **Fullstack Development**, and deploying apps like a pro 🚀  
-- Comfortable with **AWS Hosting**, **Nginx**, **Apache**, and **WordPress** 🌐  
+- 💻 Passionate about **Fullstack Web Development**  
+- 📚 Previously learned **Data Structures & Algorithms (DSA)**  
+- 🚀 Currently mastering **React.js**, **Node.js**, **MongoDB**, **Tailwind CSS**, and modern deployment workflows  
+- ☁️ Comfortable with **AWS Hosting**, **Nginx**, **Apache**, and **WordPress**  
 
 ---
 
@@ -36,24 +37,28 @@ Hi there! Welcome to my GitHub profile. 😄
 
 ---
 
-## 📈 Skill Level (Progress Bars)
-**HTML / CSS** |████████████░░░░░░ 80%  
-**JavaScript** |███████████░░░░░░ 75%  
-**Tailwind CSS / DaisyUI** |█████████░░░░░░ 70%  
-**React.js** |████████░░░░░░░░ 60%  
-**Node.js / Express.js** |████████░░░░░░░░ 60%  
-**MongoDB / Mongoose** |████████░░░░░░░░ 60%  
-**AWS / Hosting / Deployment** |███████░░░░░░░░ 55%  
-**DSA / Competitive Programming** |█████████░░░░░░ 70%  
+## 📈 Skills Progress
+
+<div>
+HTML / CSS |████████████░░░░░░ 80%<br>
+JavaScript |███████████░░░░░░ 75%<br>
+Tailwind CSS / DaisyUI |█████████░░░░░░ 70%<br>
+React.js |████████░░░░░░░░ 60%<br>
+Node.js / Express.js |████████░░░░░░░░ 60%<br>
+MongoDB / Mongoose |████████░░░░░░░░ 60%<br>
+AWS / Hosting / Deployment |███████░░░░░░░░ 55%<br>
+DSA / Competitive Programming |█████████░░░░░░ 70%
+</div>
 
 ---
 
 ## 💼 Project Showcase
-| Project | Tech Stack | Live Demo |
-|--------|------------|-----------|
-| Mini Shop | HTML, CSS, JS, Node.js, MongoDB | [Demo](https://yourprojectlink.com) |
-| Portfolio Website | React.js, Tailwind CSS | [Demo](https://yourportfolio.com) |
-| Blog CMS | WordPress, PHP | [Demo](https://yourblog.com) |
+
+| Project | Tech Stack | Preview | Live Demo |
+|--------|------------|---------|-----------|
+| Mini Shop | HTML, CSS, JS, Node.js, MongoDB | ![Mini Shop](https://via.placeholder.com/120x80.png?text=Mini+Shop) | [Live](https://yourprojectlink.com) |
+| Portfolio Website | React.js, Tailwind CSS | ![Portfolio](https://via.placeholder.com/120x80.png?text=Portfolio) | [Live](https://yourportfolio.com) |
+| Blog CMS | WordPress, PHP | ![Blog CMS](https://via.placeholder.com/120x80.png?text=Blog+CMS) | [Live](https://yourblog.com) |
 
 ---
 
