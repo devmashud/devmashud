@@ -70,16 +70,13 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 ![Mashudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmashud&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmashud&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ---
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashudul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourHandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashudul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devmashud/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devmashud)  
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 
 ---
