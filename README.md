@@ -78,8 +78,8 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 
 ## 📊 GitHub Stats
 
-![Mashudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMashud&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMashud&layout=compact&theme=radical)
+![Mashudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmashud&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmashud&layout=compact&theme=radical)
 
 ---
 
