@@ -59,27 +59,20 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
 
 
 ---
 
-## 💼 Project Showcase
-
-| Project | Tech Stack | Preview | Live Demo |
-|--------|------------|---------|-----------|
-| Mini Shop | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge) | ![Mini Shop](https://via.placeholder.com/150x80.png?text=Mini+Shop) | [Live](https://yourprojectlink.com) |
-| Portfolio Website | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge) | ![Portfolio](https://via.placeholder.com/150x80.png?text=Portfolio) | [Live](https://yourportfolio.com) |
-| Blog CMS | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge) | ![Blog CMS](https://via.placeholder.com/150x80.png?text=Blog+CMS) | [Live](https://yourblog.com) |
-
----
 
 ## 📊 GitHub Stats
 
 ![Mashudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmashud&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmashud&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ---
 
