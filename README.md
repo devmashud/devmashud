@@ -37,32 +37,12 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 
 ---
 
-## 📈 Skills Progress
-
-**HTML / CSS** 🔹  
-![HTML](https://progress-bar.dev/80/?title=HTML&color=E34F26)  
-
-**JavaScript** 🔸  
-![JavaScript](https://progress-bar.dev/75/?title=JavaScript&color=F7DF1E)  
-
-**Tailwind CSS / DaisyUI** 💠  
-![Tailwind](https://progress-bar.dev/70/?title=Tailwind&color=06B6D4)  
-
-**React.js** ⚛️  
-![React](https://progress-bar.dev/60/?title=React&color=61DAFB)  
-
-**Node.js / Express.js** 🟢  
-![Node.js](https://progress-bar.dev/60/?title=NodeJS&color=339933)  
-
-**MongoDB / Mongoose** 🍃  
-![MongoDB](https://progress-bar.dev/60/?title=MongoDB&color=47A248)  
-
-**AWS / Hosting / Deployment** ☁️  
-![AWS](https://progress-bar.dev/55/?title=AWS&color=FF9900)  
-
-**DSA / Competitive Programming** 🏆  
-![DSA](https://progress-bar.dev/70/?title=DSA&color=FF5722)  
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 ---
 
