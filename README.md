@@ -39,16 +39,15 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 
 ## 📈 Skills Progress
 
-<div>
-HTML / CSS |████████████░░░░░░ 80%<br>
-JavaScript |███████████░░░░░░ 75%<br>
-Tailwind CSS / DaisyUI |█████████░░░░░░ 70%<br>
-React.js |████████░░░░░░░░ 60%<br>
-Node.js / Express.js |████████░░░░░░░░ 60%<br>
-MongoDB / Mongoose |████████░░░░░░░░ 60%<br>
-AWS / Hosting / Deployment |███████░░░░░░░░ 55%<br>
-DSA / Competitive Programming |█████████░░░░░░ 70%
-</div>
+**HTML / CSS** 🔹 <span style="color:#E34F26">████████████</span><span style="color:#ddd">░░░░░░</span> 80%  
+**JavaScript** 🔸 <span style="color:#F7DF1E">███████████</span><span style="color:#ddd">░░░░░░</span> 75%  
+**Tailwind CSS / DaisyUI** 💠 <span style="color:#06B6D4">█████████</span><span style="color:#ddd">░░░░░░</span> 70%  
+**React.js** ⚛️ <span style="color:#61DAFB">████████</span><span style="color:#ddd">░░░░░░░░</span> 60%  
+**Node.js / Express.js** 🟢 <span style="color:#339933">████████</span><span style="color:#ddd">░░░░░░░░</span> 60%  
+**MongoDB / Mongoose** 🍃 <span style="color:#47A248">████████</span><span style="color:#ddd">░░░░░░░░</span> 60%  
+**AWS / Hosting / Deployment** ☁️ <span style="color:#FF9900">███████</span><span style="color:#ddd">░░░░░░░░</span> 55%  
+**DSA / Competitive Programming** 🏆 <span style="color:#FF5722">█████████</span><span style="color:#ddd">░░░░░░</span> 70%
+
 
 ---
 
