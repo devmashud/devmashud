@@ -37,13 +37,13 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 
 ---
 
-## 📈 Skills Progress (Animated-Look)
+## 📈 Skills Progress
 
 **HTML / CSS** 🔹  
 ![HTML](https://progress-bar.dev/80/?title=HTML&color=E34F26)  
 
 **JavaScript** 🔸  
-![JS](https://progress-bar.dev/75/?title=JavaScript&color=F7DF1E)  
+![JavaScript](https://progress-bar.dev/75/?title=JavaScript&color=F7DF1E)  
 
 **Tailwind CSS / DaisyUI** 💠  
 ![Tailwind](https://progress-bar.dev/70/?title=Tailwind&color=06B6D4)  
@@ -52,7 +52,7 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 ![React](https://progress-bar.dev/60/?title=React&color=61DAFB)  
 
 **Node.js / Express.js** 🟢  
-![Node](https://progress-bar.dev/60/?title=NodeJS&color=339933)  
+![Node.js](https://progress-bar.dev/60/?title=NodeJS&color=339933)  
 
 **MongoDB / Mongoose** 🍃  
 ![MongoDB](https://progress-bar.dev/60/?title=MongoDB&color=47A248)  
@@ -62,6 +62,7 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 
 **DSA / Competitive Programming** 🏆  
 ![DSA](https://progress-bar.dev/70/?title=DSA&color=FF5722)  
+
 
 ---
 
