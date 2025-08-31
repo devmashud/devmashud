@@ -1,6 +1,6 @@
 # 👋 Assalamu Alaikum! I'm Mashudul Hoque
 
-Hi there! Welcome to my GitHub profile. 😄
+Hi there! Welcome to my GitHub profile. 😄  
 
 ---
 
@@ -15,27 +15,28 @@ Hi there! Welcome to my GitHub profile. 😄
 ## 🌱 Tech Stack & Skills
 
 ### Frontend
-- 🌐 **HTML5**, **CSS3**, **JavaScript (ES6+)**  
-- 🎨 **Tailwind CSS**, **DaisyUI**  
-- ⚛️ **React.js** (currently learning)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![DaisyUI](https://img.shields.io/badge/DaisyUI-00BFFF?style=for-the-badge&logo=figma&logoColor=white)  
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ### Backend
-- 🟢 **Node.js**, **Express.js**  
-- 🍃 **MongoDB**, **Mongoose**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)  
 
 ### Hosting & Deployment
-- ☁️ **AWS Hosting**  
-- 🔧 **Nginx**, **Apache**  
-- 🌍 **WordPress Deployment**
-
-### DSA & Competitive Programming
-- 📈 **Data Structures & Algorithms** (refreshing)  
-- 🏆 **Competitive Programming**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Apache](https://img.shields.io/badge/Apache-FC6A0F?style=for-the-badge&logo=apache&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
 ---
 
-## 🛠️ Skill Level (Progress Bars)
-
+## 📈 Skill Level (Progress Bars)
 **HTML / CSS** |████████████░░░░░░ 80%  
 **JavaScript** |███████████░░░░░░ 75%  
 **Tailwind CSS / DaisyUI** |█████████░░░░░░ 70%  
@@ -44,6 +45,21 @@ Hi there! Welcome to my GitHub profile. 😄
 **MongoDB / Mongoose** |████████░░░░░░░░ 60%  
 **AWS / Hosting / Deployment** |███████░░░░░░░░ 55%  
 **DSA / Competitive Programming** |█████████░░░░░░ 70%  
+
+---
+
+## 💼 Project Showcase
+| Project | Tech Stack | Live Demo |
+|--------|------------|-----------|
+| Mini Shop | HTML, CSS, JS, Node.js, MongoDB | [Demo](https://yourprojectlink.com) |
+| Portfolio Website | React.js, Tailwind CSS | [Demo](https://yourportfolio.com) |
+| Blog CMS | WordPress, PHP | [Demo](https://yourblog.com) |
+
+---
+
+## 📊 GitHub Stats
+![Mashudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMashud&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMashud&layout=compact&theme=radical)
 
 ---
 
@@ -63,8 +79,3 @@ Open to collaborate on:
 ---
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
-
----
-
-## 🌟 GitHub Stats (Optional)
-![Mashudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMashud&show_icons=true&theme=radical)
