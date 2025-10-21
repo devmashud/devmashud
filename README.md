@@ -76,8 +76,8 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mashudul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devmashud/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devmashud)  
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-@devmashud-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/devmashud)  
+[![Email](https://img.shields.io/badge/Email-mashudofficial4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashudofficial4@gmail.com)  
 
 ---
 
