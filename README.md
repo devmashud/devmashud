@@ -69,4 +69,4 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+> “The pursuit of knowledge elevates a civilization.” – Ibn Khaldun(RH)
