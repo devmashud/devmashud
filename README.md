@@ -8,8 +8,7 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 ## 👀 About Me
 - 💻 Fullstack Web Developer  
 - 📚 Previously learned **Data Structures & Algorithms (DSA)**  
-- 🚀 Currently mastering **React.js**, **Node.js**, **MongoDB**, **Tailwind CSS**, **DaisyUI**, **Deployment workflows**  
-- ☁️ Comfortable with **AWS Hosting**, **Nginx**, **Apache**  
+- 🚀 Currently mastering **React.js**, **NextJS**, **Node.js**, **MongoDB**, **Tailwind CSS**, **DaisyUI**, **Deployment workflows**  
 
 ---
 
@@ -30,9 +29,6 @@ I'm a passionate **Web Developer** and **Competitive Programmer** constantly lea
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
 ### Hosting & Deployment
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-FC6A0F?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
